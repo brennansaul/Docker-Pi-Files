@@ -5,3 +5,4 @@ This file affiliates config files to their location on the pi
 | ------------- |:-------------:| 
 | hostname      | /etc/hostname |   
 | interfaces    | /etc/network/interfaces      |
+| host          | /etc/hosts    |
